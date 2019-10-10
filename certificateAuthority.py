@@ -1,3 +1,5 @@
+#Jared Wheet - SWDV 660 Week 7 Assignment
+
 publicKey = '1234567890'
 sessionKey = 'abcdefghij'
 

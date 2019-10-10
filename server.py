@@ -1,3 +1,5 @@
+#Jared Wheet - SWDV 660 Week 7 Assignment
+
 import socket
 import sys
 from certificateAuthority import getKey, validateAuthenticity, getPublicKey

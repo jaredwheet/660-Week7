@@ -1,3 +1,5 @@
+#Jared Wheet - SWDV 660 Week 7 Assignment
+
 # Import socket module 
 import socket     
 import random 
